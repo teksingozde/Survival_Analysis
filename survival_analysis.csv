@@ -1,0 +1,620 @@
+PERF_STA,AGE,STAGE,SEX,PR_RAD,B_SYM,RACE,r_score,pr_resp,pr_drug,os_event,os_time,trt
+0,49.5,III,M,N,N,1,"0, 1",DU<1,Y,0,45.437,treatment
+0,30.6,I,M,Y,N,1,"0, 1",DU<1,Y,1,10.645,control
+2,60.5,III,F,N,Y,1,>=3,DU<1,Y,0,138.448,control
+1,57.1,III,M,N,N,1,2,DU<1,N,0,156.452,treatment
+1,45.8,II,M,N,N,1,"0, 1",DU>1,N,0,151.721,control
+1,51.9,III,M,Y,N,1,"0, 1",DU<1,N,1,22.637,treatment
+1,65.2,II,M,N,Y,1,"0, 1",DU>1,N,0,151.589,control
+0,60,IV,M,Y,N,1,>=3,DU>1,N,1,27.072,treatment
+0,50.5,II,M,N,N,1,"0, 1",DU<1,Y,0,128.361,treatment
+1,40.5,II,M,N,N,1,"0, 1",DU<1,Y,1,38.111,control
+1,39.6,IV,M,N,Y,1,2,SDPD,N,1,0.986,treatment
+0,60.4,IV,F,N,N,1,2,DU<1,N,0,128.066,control
+1,55.4,III,M,Y,N,1,2,DU<1,N,1,5.979,control
+1,33,IV,M,N,Y,1,>=3,DU>1,N,1,2.628,treatment
+2,54.6,IV,M,Y,Y,1,>=3,SDPD,Y,1,81.084,treatment
+1,49.5,IV,M,N,Y,1,>=3,DU<1,Y,1,5.421,treatment
+0,55.7,I,M,Y,N,1,"0, 1",DU>1,Y,0,79.113,control
+1,54.6,III,M,N,Y,1,"0, 1",SDPD,N,1,1.84,control
+0,58,III,M,N,Y,1,2,DU>1,N,0,77.766,control
+0,63.5,III,F,N,N,1,>=3,DU<1,Y,1,12.485,treatment
+0,55.6,I,F,N,Y,1,"0, 1",SDPD,Y,1,6.965,treatment
+2,65.1,III,M,Y,Y,1,>=3,DU>1,N,1,34.07,control
+0,55.5,II,M,N,N,1,"0, 1",DU<1,Y,1,57.002,control
+2,52.4,II,M,N,N,1,"0, 1",SDPD,Y,0,65.774,treatment
+1,48,IV,M,Y,Y,1,>=3,DU<1,N,1,8.871,treatment
+2,57.1,III,F,N,N,1,>=3,DU<1,Y,1,5.027,treatment
+2,60.2,IV,F,N,Y,3,>=3,DU<1,Y,1,2.103,control
+1,59.3,I,F,Y,N,1,"0, 1",SDPD,Y,1,6.834,treatment
+1,65.1,IV,M,N,Y,1,>=3,DU<1,N,1,4.731,control
+1,61.6,IV,F,N,N,1,>=3,SDPD,Y,1,10.086,control
+1,62.6,III,M,N,N,1,>=3,DU>1,Y,1,5.29,control
+1,62.6,IV,F,N,Y,1,>=3,SDPD,Y,1,2.267,treatment
+1,58.9,IV,M,N,N,1,2,DU<1,Y,0,42.645,control
+0,59.1,III,F,N,N,1,2,DU<1,Y,1,26.809,treatment
+1,22.6,II,F,Y,N,1,"0, 1",DU<1,N,1,7.031,control
+1,53,III,M,N,Y,1,2,SDPD,N,1,2.694,treatment
+2,62.4,IV,M,N,Y,1,>=3,DU<1,Y,1,0.099,control
+1,62.8,III,M,N,Y,1,>=3,SDPD,Y,1,6.472,control
+2,36.6,IV,F,N,N,1,>=3,DU<1,Y,0,129.248,treatment
+1,26.8,IV,M,Y,N,1,2,DU>1,N,0,115.745,treatment
+0,44.9,II,F,Y,Y,1,"0, 1",DU>1,N,1,15.606,control
+2,57.6,III,M,N,Y,1,2,SDPD,Y,1,1.511,control
+1,30.3,IV,M,N,N,1,2,DU<1,N,0,113.38,control
+0,56.5,I,F,N,N,1,"0, 1",DU<1,N,0,114.267,treatment
+1,39.9,IV,M,N,Y,1,>=3,SDPD,Y,1,2.825,control
+0,34.2,I,M,Y,Y,1,"0, 1",DU<1,N,0,110.193,treatment
+0,54.6,IV,F,N,Y,1,"0, 1",DU>1,N,1,4.632,control
+1,61,IV,M,N,Y,1,>=3,SDPD,Y,1,9.133,treatment
+1,59.9,IV,M,N,Y,1,2,DU>1,N,1,5.947,treatment
+0,59.7,II,M,N,Y,1,"0, 1",DU<1,Y,0,113.511,control
+1,59.1,I,F,N,Y,1,"0, 1",DU<1,N,1,2.07,treatment
+1,32.5,IV,M,N,N,6,2,SDPD,Y,1,8.049,treatment
+2,52.8,IV,F,N,Y,1,>=3,DU<1,Y,1,1.051,treatment
+0,40.4,I,F,N,N,1,"0, 1",SDPD,Y,0,105.002,control
+0,49.9,II,M,N,N,1,"0, 1",DU>1,Y,0,108.025,treatment
+0,32.2,IV,M,N,Y,1,2,DU<1,N,0,11.335,control
+0,50.3,III,M,N,Y,1,"0, 1",SDPD,Y,1,7.195,treatment
+1,45.1,II,M,N,Y,1,"0, 1",DU<1,Y,1,11.269,treatment
+1,44.2,I,F,N,Y,1,"0, 1",SDPD,Y,1,5.914,control
+0,52.1,II,M,N,Y,1,"0, 1",DU<1,Y,1,11.992,control
+0,45.8,I,F,N,N,1,"0, 1",DU>1,N,0,91.663,control
+0,61.8,IV,M,Y,N,1,>=3,DU>1,N,1,4.402,treatment
+1,65.5,IV,M,N,Y,1,>=3,DU<1,Y,1,9.462,treatment
+1,57.9,IV,M,N,Y,1,>=3,SDPD,Y,1,8.082,control
+1,65.5,IV,M,N,N,1,>=3,DU<1,N,1,6.045,control
+1,33.6,I,F,N,Y,,"0, 1",DU<1,Y,1,7.819,treatment
+0,49.1,III,F,Y,N,1,"0, 1",DU<1,Y,0,77.306,control
+1,53.8,III,M,N,Y,1,>=3,DU>1,Y,0,23.918,treatment
+3,55.4,IV,M,N,Y,1,>=3,DU<1,N,1,2.76,treatment
+1,50.6,III,M,N,Y,1,2,SDPD,Y,1,6.177,treatment
+0,53.7,II,M,N,Y,1,"0, 1",DU<1,Y,0,144.789,control
+1,51.3,IV,F,N,Y,1,2,DU<1,N,1,26.086,treatment
+1,69,III,F,N,N,1,>=3,DU<1,Y,1,1.906,control
+1,51.8,II,M,N,N,,"0, 1",DU>1,N,0,157.372,control
+1,63.1,III,M,Y,N,1,2,DU>1,Y,0,114.891,treatment
+0,49.9,IV,M,N,N,1,2,DU>1,Y,1,42.612,control
+1,64.5,IV,M,Y,Y,1,>=3,DU<1,Y,1,9.626,treatment
+1,54,II,M,N,N,1,"0, 1",SDPD,Y,1,3.351,control
+0,59.7,IV,M,N,N,1,2,SDPD,Y,1,8.049,treatment
+0,63.6,IV,M,Y,Y,1,>=3,SDPD,N,1,10.645,treatment
+0,66,II,F,N,N,1,"0, 1",DU>1,Y,1,3.811,control
+0,42.7,I,M,Y,N,1,"0, 1",DU>1,N,0,153.758,treatment
+0,43.2,II,F,N,N,1,"0, 1",DU<1,N,1,75.203,control
+1,28.9,II,F,N,Y,1,"0, 1",DU<1,Y,0,135.294,control
+1,63.4,II,M,N,N,1,2,DU>1,N,1,66.924,control
+0,48.4,IV,M,N,N,1,2,DU<1,N,1,11.696,treatment
+0,49.7,II,M,Y,N,1,"0, 1",DU>1,Y,1,8.148,control
+1,56,I,M,N,N,1,"0, 1",DU>1,Y,1,6.965,control
+1,53.6,I,M,N,N,1,"0, 1",SDPD,N,0,99.187,treatment
+1,65,IV,M,N,N,1,>=3,DU<1,Y,0,110.423,control
+2,57.3,III,M,Y,N,1,2,DU>1,N,0,101.947,treatment
+2,51.6,IV,M,Y,Y,1,>=3,DU<1,N,1,5.322,treatment
+0,56.3,II,F,N,N,1,"0, 1",DU<1,Y,1,6.867,treatment
+0,44,II,F,Y,Y,1,"0, 1",DU>1,N,0,100.435,treatment
+1,61.5,IV,F,N,N,1,>=3,DU<1,Y,1,7.228,treatment
+1,63.7,II,F,N,N,1,2,DU<1,Y,1,9.265,control
+1,36.3,II,F,N,N,1,"0, 1",DU<1,Y,0,86.899,control
+0,43.9,IV,F,Y,N,1,2,DU>1,N,1,22.012,treatment
+1,51.1,III,M,N,N,1,2,DU<1,Y,0,74.218,control
+1,48.2,IV,F,N,Y,1,2,DU<1,Y,1,76.09,control
+1,51.2,IV,M,N,N,1,>=3,DU>1,Y,0,63.639,treatment
+0,55.9,III,M,N,N,1,2,DU>1,Y,0,63.934,control
+0,55,I,F,N,N,1,"0, 1",DU<1,N,0,157.437,treatment
+0,51.2,III,F,N,N,1,"0, 1",DU>1,N,1,16.23,treatment
+1,63.3,III,M,N,N,1,2,DU<1,Y,1,58.218,control
+0,55,IV,M,N,N,1,"0, 1",DU<1,Y,0,141.01,control
+1,62.4,IV,F,N,N,1,>=3,DU<1,Y,1,0.953,control
+1,27.6,II,M,N,N,1,"0, 1",SDPD,Y,1,4.468,control
+1,51.7,III,M,N,N,1,2,DU<1,Y,1,3.055,treatment
+2,50.6,IV,M,N,Y,1,>=3,SDPD,Y,1,11.302,control
+1,63.8,IV,M,N,N,1,>=3,DU<1,Y,1,9.101,treatment
+1,58.7,III,M,N,N,1,2,DU<1,Y,1,11.696,control
+1,41.6,IV,F,N,N,1,>=3,DU<1,Y,0,56.509,treatment
+1,57.1,IV,F,N,Y,1,2,DU<1,N,1,8.969,treatment
+0,64.2,II,F,N,N,1,"0, 1",DU<1,Y,0,57.265,control
+1,65.1,III,M,N,Y,1,>=3,DU<1,Y,1,11.828,treatment
+0,62.2,IV,M,Y,N,,>=3,DU>1,N,1,3.975,treatment
+0,62.1,II,M,N,N,1,2,DU<1,Y,1,41.758,control
+1,45.9,IV,M,N,N,1,>=3,DU<1,N,1,9.429,treatment
+1,53.7,IV,F,N,Y,1,2,DU<1,N,1,2.201,control
+0,58.8,IV,M,N,N,1,2,DU<1,Y,1,6.012,control
+0,48.9,IV,M,N,Y,6,>=3,DU<1,Y,1,2.168,treatment
+3,64.4,IV,F,N,Y,1,>=3,DU<1,Y,1,3.285,treatment
+1,55.7,I,M,N,Y,1,"0, 1",SDPD,Y,1,5.881,control
+1,56,II,M,N,Y,1,"0, 1",DU<1,Y,1,23.064,treatment
+0,63.7,IV,F,N,N,1,>=3,DU>1,Y,1,81.314,control
+0,53.6,IV,F,N,Y,1,>=3,DU>1,N,0,113.018,treatment
+0,54.1,II,F,N,Y,1,"0, 1",DU<1,Y,1,7.261,control
+1,60.4,III,M,N,Y,1,>=3,DU<1,Y,1,5.552,treatment
+1,53.3,IV,M,N,Y,1,2,DU<1,Y,1,5.881,control
+1,61.6,III,M,N,Y,1,>=3,SDPD,Y,1,4.14,control
+2,66.1,IV,F,Y,Y,1,>=3,DU>1,Y,1,5.092,treatment
+1,51.9,I,M,Y,Y,1,"0, 1",DU<1,Y,1,20.961,control
+0,67.5,III,M,Y,Y,1,2,DU>1,Y,1,31.901,treatment
+0,54,I,F,N,Y,1,"0, 1",SDPD,Y,0,85.125,treatment
+1,56.2,I,M,N,Y,1,"0, 1",SDPD,Y,0,75.236,control
+0,61.9,II,M,Y,N,1,"0, 1",DU>1,Y,0,92.025,control
+0,68.8,II,M,Y,N,1,"0, 1",DU>1,Y,1,9.331,treatment
+1,59,III,F,N,Y,1,"0, 1",DU<1,Y,0,78.916,treatment
+1,53.4,II,M,N,N,,2,SDPD,N,1,1.807,control
+2,42.5,IV,F,N,N,1,>=3,SDPD,N,0,130.431,control
+1,53.5,II,F,N,N,1,"0, 1",DU<1,Y,1,12.879,treatment
+1,62,III,F,N,Y,1,>=3,DU>1,N,1,32.164,treatment
+2,41.9,IV,M,N,Y,1,>=3,DU<1,Y,1,2.628,control
+1,60.8,III,F,N,N,1,>=3,DU>1,N,0,128.131,control
+0,38.6,II,M,Y,N,1,"0, 1",DU>1,N,1,57.856,treatment
+2,52,II,M,N,Y,1,2,DU<1,N,0,131.351,treatment
+0,66.5,II,F,Y,N,1,"0, 1",DU>1,Y,0,120.838,treatment
+1,63.6,IV,M,N,N,1,>=3,DU>1,N,0,113.084,control
+0,30.4,II,M,N,N,5,"0, 1",DU<1,Y,0,111.573,control
+1,58.6,IV,M,N,N,1,>=3,DU<1,Y,1,5.06,control
+1,47.5,II,F,Y,N,1,"0, 1",DU<1,Y,1,2.3,control
+0,59.4,II,F,N,N,1,"0, 1",SDPD,Y,1,78.357,treatment
+1,64.9,III,F,N,N,1,2,DU>1,Y,1,53.29,treatment
+1,49.1,IV,M,Y,Y,1,2,DU>1,N,1,70.965,control
+2,64.6,IV,F,N,Y,5,>=3,SDPD,Y,1,5.125,control
+0,63.4,IV,M,Y,N,1,2,DU>1,N,0,105.199,treatment
+1,55.2,III,M,N,N,1,2,DU<1,Y,0,110.554,treatment
+3,62.4,IV,M,N,N,1,>=3,DU<1,Y,1,7.031,control
+1,50.9,I,M,Y,Y,1,"0, 1",DU<1,Y,1,7.688,treatment
+1,62.3,IV,M,N,Y,1,>=3,DU>1,Y,0,109.142,control
+1,30,IV,M,N,Y,1,2,DU>1,Y,0,101.092,treatment
+1,67.2,IV,M,N,N,1,>=3,DU<1,Y,1,12.78,treatment
+1,45.8,III,F,N,N,1,>=3,DU<1,Y,1,2.891,control
+1,58.4,IV,M,N,N,1,>=3,DU<1,Y,1,5.947,treatment
+1,47.7,IV,M,N,Y,1,>=3,SDPD,Y,1,2.628,treatment
+0,64.9,III,F,Y,N,5,2,DU>1,N,0,96.821,control
+1,45.8,IV,M,Y,Y,1,>=3,DU>1,N,0,88.542,control
+0,42.9,II,M,N,Y,1,"0, 1",SDPD,Y,1,6.768,treatment
+1,57.7,III,F,N,Y,1,>=3,SDPD,Y,1,12.32,treatment
+1,64.2,IV,F,Y,N,1,>=3,DU<1,Y,1,21.158,treatment
+0,63.7,III,F,N,Y,1,>=3,SDPD,Y,1,3.22,control
+0,48.7,IV,M,Y,N,1,2,DU<1,Y,1,53.092,treatment
+1,64.9,II,M,N,Y,1,2,DU>1,N,1,16.756,control
+1,56.7,IV,M,N,N,1,2,DU<1,Y,1,9.265,treatment
+0,62.9,IV,F,N,Y,1,>=3,DU<1,Y,1,10.415,treatment
+1,56,II,F,Y,Y,1,"0, 1",DU>1,Y,1,51.778,treatment
+1,54.7,II,F,N,Y,1,"0, 1",SDPD,Y,0,67.548,control
+1,53.2,IV,F,N,Y,1,"0, 1",SDPD,Y,1,9.331,control
+1,65.2,IV,M,N,Y,1,>=3,SDPD,Y,0,54.078,control
+2,66.2,IV,M,N,Y,1,>=3,DU>1,Y,1,14.949,control
+0,46.2,II,M,N,N,1,"0, 1",SDPD,Y,1,5.388,control
+1,32.7,III,F,Y,N,5,2,DU<1,N,0,52.797,control
+0,58.8,II,M,N,N,1,"0, 1",SDPD,Y,0,53.257,treatment
+0,65.4,III,M,N,N,1,>=3,DU<1,Y,0,51.647,control
+0,59.3,III,M,N,N,1,>=3,DU>1,N,0,47.54,treatment
+1,58,II,M,N,N,1,"0, 1",SDPD,Y,0,52.172,treatment
+1,39.5,II,M,N,Y,1,"0, 1",SDPD,N,0,134.308,treatment
+0,52.8,IV,F,Y,N,3,"0, 1",DU<1,Y,1,30.883,control
+2,57.5,III,M,Y,Y,1,>=3,DU<1,Y,1,4.83,treatment
+1,43,IV,F,Y,Y,3,>=3,SDPD,Y,1,2.333,control
+0,32.3,II,M,N,N,1,"0, 1",DU<1,Y,1,28.945,treatment
+0,51,II,M,N,N,1,"0, 1",DU<1,Y,0,133.224,treatment
+1,42.4,IV,M,Y,Y,1,>=3,SDPD,Y,1,3.943,control
+0,50,IV,F,Y,N,1,2,DU<1,Y,1,7.392,treatment
+2,55,IV,M,Y,Y,1,>=3,DU<1,Y,1,3.023,control
+1,49,IV,F,Y,N,1,>=3,DU<1,Y,1,13.7,control
+0,52.8,III,M,N,Y,1,"0, 1",DU<1,Y,1,67.844,treatment
+2,53.8,IV,M,Y,N,1,>=3,SDPD,Y,1,2.366,control
+0,58.9,IV,M,N,Y,1,>=3,SDPD,Y,1,1.248,control
+0,60.6,II,M,N,N,1,"0, 1",SDPD,Y,1,6.045,treatment
+0,53.3,III,M,Y,N,1,2,SDPD,Y,1,13.7,control
+1,44.6,IV,M,Y,N,1,2,SDPD,Y,1,4.6,treatment
+1,23.3,III,M,N,N,3,>=3,SDPD,N,1,1.906,treatment
+1,55.4,IV,M,N,N,1,2,DU<1,Y,1,10.71,control
+0,58,IV,F,N,N,1,"0, 1",DU<1,Y,1,31.639,treatment
+0,33.9,II,F,Y,Y,5,"0, 1",SDPD,Y,1,5.06,control
+0,59.1,IV,M,N,Y,1,2,SDPD,Y,1,13.437,treatment
+0,52.8,IV,M,Y,Y,1,2,DU>1,Y,1,10.48,control
+0,64.9,IV,M,Y,N,1,2,SDPD,Y,1,9.791,treatment
+0,48.8,IV,M,N,N,1,"0, 1",DU<1,Y,0,98.037,treatment
+0,64.2,IV,F,N,N,1,>=3,DU<1,Y,1,64.723,treatment
+0,63.5,IV,M,N,N,1,>=3,SDPD,Y,1,30.094,control
+0,30.5,IV,M,N,N,1,"0, 1",DU>1,N,0,75.729,control
+0,60.9,III,F,N,N,1,2,DU>1,Y,0,91.762,treatment
+1,29.7,IV,M,Y,N,5,2,DU<1,Y,1,9.626,control
+0,51.6,III,M,N,N,5,"0, 1",DU>1,N,0,85.749,control
+0,32.2,IV,F,Y,N,1,2,DU<1,Y,1,5.092,control
+1,37.1,IV,M,N,Y,1,"0, 1",SDPD,N,1,77.602,control
+0,34.9,II,M,Y,Y,1,"0, 1",SDPD,Y,1,33.906,treatment
+0,63.2,III,F,N,Y,1,2,DU>1,Y,0,38.899,control
+0,26.2,IV,M,N,Y,3,2,DU<1,Y,0,76.255,treatment
+1,48.3,IV,M,N,Y,1,2,DU<1,Y,1,3.417,treatment
+0,55.4,IV,M,N,Y,1,"0, 1",SDPD,Y,0,71.786,control
+0,68.5,IV,M,N,N,1,>=3,DU>1,Y,1,71.655,treatment
+0,66.8,II,F,Y,N,1,2,SDPD,Y,1,5.815,treatment
+1,65.8,IV,M,Y,Y,1,>=3,DU<1,Y,1,2.103,control
+1,40.9,IV,F,N,N,1,2,SDPD,N,1,5.552,treatment
+1,36.1,IV,F,N,N,1,"0, 1",DU>1,Y,0,58.908,control
+0,36.6,IV,M,N,N,5,2,DU<1,N,1,36.501,treatment
+1,56.2,III,F,N,Y,1,"0, 1",DU<1,N,0,133.947,control
+1,25.5,IV,F,N,N,5,2,SDPD,N,1,9.791,control
+2,59.3,IV,M,N,N,1,>=3,DU<1,N,1,4.107,treatment
+1,54.9,II,M,N,N,1,"0, 1",DU<1,N,1,26.743,control
+2,41.6,II,F,N,N,,2,DU<1,N,1,13.306,treatment
+1,46.5,I,M,N,N,,"0, 1",DU<1,N,0,122.678,control
+1,41.1,II,M,N,N,1,"0, 1",SDPD,N,0,117.815,treatment
+0,62.1,IV,M,N,N,,>=3,SDPD,N,1,28.78,control
+0,47.3,III,M,N,Y,1,"0, 1",DU<1,N,1,7.622,treatment
+0,40.4,I,F,Y,N,1,"0, 1",DU<1,N,1,87.064,control
+1,55.3,III,M,N,Y,1,2,SDPD,N,1,4.764,control
+2,46.8,IV,F,N,N,1,>=3,SDPD,N,1,10.382,treatment
+0,45.3,II,F,N,N,1,"0, 1",DU<1,Y,1,10.119,treatment
+3,57.7,IV,F,N,N,1,>=3,DU<1,N,1,2.431,control
+0,38.2,I,F,N,Y,5,"0, 1",SDPD,N,1,3.351,control
+1,55.8,II,M,Y,N,3,"0, 1",SDPD,N,1,7.097,treatment
+1,46.1,III,M,N,Y,1,2,SDPD,N,1,3.713,control
+0,56.5,I,F,Y,N,3,"0, 1",DU>1,N,0,126.587,treatment
+3,53.5,IV,M,N,N,1,>=3,SDPD,N,0,137.626,treatment
+2,33.8,IV,F,Y,N,5,>=3,SDPD,Y,1,5.487,control
+1,60.3,IV,M,Y,N,1,>=3,SDPD,N,1,0.789,control
+1,54.5,IV,M,Y,Y,1,>=3,DU>1,N,1,4.074,treatment
+0,44.9,I,M,N,N,1,"0, 1",DU<1,Y,0,77.339,treatment
+0,47.6,IV,M,N,N,1,2,SDPD,Y,1,11.598,control
+1,48.1,I,M,Y,Y,1,"0, 1",DU<1,N,1,5.947,control
+0,53.8,IV,M,Y,N,1,2,DU>1,N,0,123.039,treatment
+1,60,III,M,N,N,1,2,DU<1,Y,1,5.947,treatment
+1,63.9,II,F,N,Y,1,"0, 1",SDPD,Y,0,112.263,treatment
+1,48.6,IV,F,N,Y,1,"0, 1",DU>1,N,0,130.333,treatment
+0,59,IV,M,N,N,1,2,DU>1,N,0,126.16,control
+1,63.5,IV,M,Y,N,1,2,DU<1,N,1,15.901,control
+1,59,III,F,N,N,1,2,DU<1,Y,1,7.524,treatment
+1,43.9,III,M,N,N,1,2,DU<1,Y,1,6.505,control
+2,56.3,IV,F,N,N,5,>=3,SDPD,Y,0,125.47,treatment
+0,44.1,IV,F,N,N,1,2,SDPD,Y,0,85.06,control
+1,62.5,III,F,N,N,1,>=3,DU<1,N,1,100.008,treatment
+1,55.5,I,F,N,N,1,"0, 1",DU<1,Y,0,128.953,treatment
+1,41,IV,F,N,N,1,>=3,SDPD,Y,1,5.782,control
+1,55.7,IV,F,Y,N,5,>=3,DU<1,Y,1,6.209,treatment
+2,40.9,II,F,N,N,5,>=3,SDPD,Y,1,4.402,control
+2,53.9,III,F,N,Y,1,>=3,DU<1,N,0,122.579,control
+2,59,IV,M,Y,N,5,>=3,SDPD,Y,1,20.895,treatment
+0,48.6,IV,M,N,N,5,2,DU>1,N,0,124.977,control
+0,42.6,I,F,Y,N,1,"0, 1",DU>1,N,1,68.074,control
+0,43.1,II,M,N,N,1,"0, 1",SDPD,Y,0,103.852,treatment
+0,53.4,III,M,N,N,1,2,DU>1,N,0,122.086,treatment
+0,65.8,III,M,N,N,1,>=3,DU<1,N,1,6.308,control
+1,44.2,II,M,Y,N,1,"0, 1",DU>1,N,0,111.836,treatment
+1,29.3,II,F,N,N,5,"0, 1",SDPD,Y,0,111.836,control
+2,56,IV,M,N,Y,1,>=3,DU<1,Y,1,5.684,treatment
+1,58.6,III,M,N,Y,5,2,DU>1,Y,1,39.326,control
+0,53.9,IV,F,N,N,1,>=3,DU<1,Y,1,60.386,treatment
+0,70,III,M,N,N,5,>=3,DU<1,Y,1,3.778,control
+1,48.7,II,F,N,N,5,"0, 1",DU<1,N,1,13.864,control
+0,43.9,III,M,Y,N,1,"0, 1",DU>1,Y,0,109.536,treatment
+2,60.6,IV,M,Y,N,3,>=3,DU<1,Y,0,2.694,treatment
+3,41.7,IV,M,N,Y,5,>=3,SDPD,N,1,1.741,control
+2,58.1,IV,F,Y,N,1,>=3,DU<1,Y,0,114.103,control
+1,39.2,IV,F,N,N,3,2,SDPD,Y,1,8.279,treatment
+1,64.2,IV,F,Y,N,1,>=3,DU<1,Y,1,15.441,control
+1,42.9,IV,M,N,N,1,2,DU<1,Y,1,7.458,control
+1,48.7,IV,M,N,Y,1,2,DU>1,Y,1,1.84,treatment
+3,44.2,III,M,Y,Y,1,>=3,DU>1,Y,1,4.895,control
+1,57.1,II,M,N,Y,1,"0, 1",SDPD,Y,1,6.374,control
+3,51.8,IV,F,N,N,1,>=3,DU<1,Y,0,100.895,treatment
+3,45.9,IV,M,Y,N,1,>=3,SDPD,Y,1,3.088,treatment
+0,57.4,II,M,N,N,1,"0, 1",DU<1,Y,1,15.244,treatment
+0,50.3,IV,M,N,N,1,2,DU>1,Y,0,100.172,treatment
+0,64.2,III,M,N,N,1,>=3,DU<1,Y,0,101.552,control
+1,59.8,II,M,Y,N,1,"0, 1",DU>1,N,0,111.836,treatment
+1,56.9,IV,F,Y,N,1,>=3,DU<1,Y,1,4.764,control
+2,65.2,IV,M,N,N,1,>=3,DU>1,Y,1,5.881,treatment
+1,43.6,II,M,N,Y,1,"0, 1",DU<1,Y,1,9.495,treatment
+1,55,IV,F,N,N,1,2,SDPD,Y,1,14.587,control
+0,60.2,IV,M,Y,Y,1,>=3,SDPD,Y,0,90.152,control
+1,59.2,IV,M,N,N,5,>=3,SDPD,Y,1,4.337,treatment
+2,42.1,IV,M,N,N,1,2,SDPD,Y,1,8.312,control
+0,31.4,I,M,N,N,5,"0, 1",DU<1,Y,1,31.934,control
+1,61.5,II,M,N,N,5,"0, 1",DU<1,N,1,3.943,treatment
+0,42.6,II,M,N,N,1,"0, 1",DU>1,Y,0,86.505,control
+0,64.3,II,M,N,N,1,"0, 1",DU<1,N,1,6.768,control
+1,40,IV,F,Y,N,1,2,SDPD,Y,1,9.331,control
+1,48,III,F,N,Y,1,2,SDPD,Y,1,3.483,control
+1,61.3,IV,F,N,N,1,>=3,SDPD,Y,1,32.756,treatment
+1,54.3,IV,F,N,N,5,2,DU>1,Y,1,9.199,treatment
+0,52.8,IV,M,N,N,99,"0, 1",SDPD,Y,0,87.951,treatment
+1,31.8,IV,F,N,Y,1,>=3,SDPD,Y,1,9.363,control
+2,27.1,IV,M,N,N,3,>=3,SDPD,N,1,7.392,treatment
+1,62.5,II,M,Y,N,1,"0, 1",SDPD,Y,1,6.472,treatment
+1,51.8,I,M,N,N,1,"0, 1",SDPD,Y,0,88.838,control
+0,52.3,IV,M,N,N,1,"0, 1",DU>1,N,0,92.189,treatment
+1,65.6,II,F,N,N,1,2,DU<1,Y,0,88.509,treatment
+1,32.2,IV,F,Y,N,3,>=3,DU<1,Y,1,6.604,control
+0,49,IV,M,N,N,1,"0, 1",DU<1,Y,1,16.197,treatment
+1,61.5,III,F,Y,N,5,>=3,DU>1,N,1,20.501,control
+1,51.6,IV,F,N,N,1,2,SDPD,Y,1,8.312,control
+1,45.1,IV,M,N,Y,3,>=3,SDPD,N,1,6.899,treatment
+1,59.1,IV,M,N,N,1,>=3,DU<1,Y,1,12.386,control
+1,40.7,II,M,N,Y,1,"0, 1",SDPD,Y,1,3.187,control
+2,59.6,IV,M,Y,N,1,>=3,DU<1,Y,1,6.209,treatment
+0,53.8,III,M,N,N,1,"0, 1",SDPD,Y,0,77.602,treatment
+1,33.1,II,M,N,Y,3,"0, 1",SDPD,Y,0,6.078,control
+0,48.3,I,M,Y,N,1,"0, 1",DU>1,Y,0,63.934,treatment
+1,56.7,IV,M,N,Y,1,>=3,DU>1,Y,1,27.203,treatment
+1,34.8,I,F,N,N,5,"0, 1",SDPD,Y,1,7.688,control
+1,57.2,III,M,N,N,5,>=3,SDPD,N,1,3.745,treatment
+0,43.2,IV,F,Y,N,1,2,DU>1,Y,0,89.298,control
+1,37.5,IV,M,Y,N,3,2,DU>1,N,0,76.057,treatment
+1,52.6,IV,M,N,N,1,2,SDPD,Y,1,6.801,treatment
+1,46.4,IV,F,Y,Y,1,2,DU>1,Y,0,69.158,treatment
+1,63.9,IV,M,N,N,1,>=3,SDPD,Y,1,2.628,treatment
+1,63.6,IV,M,N,N,5,>=3,SDPD,Y,1,3.844,control
+2,38.2,IV,F,Y,N,5,>=3,SDPD,Y,1,3.811,control
+1,54.2,II,M,Y,N,1,"0, 1",SDPD,N,1,5.552,control
+0,44.5,IV,M,N,N,99,2,DU<1,Y,1,18.727,control
+0,64.5,I,F,N,N,5,2,DU<1,Y,0,55.754,treatment
+0,65.1,I,F,N,N,1,"0, 1",DU>1,Y,1,45.963,control
+1,64.6,I,F,N,N,1,2,SDPD,Y,1,8.082,treatment
+0,58.1,III,M,N,N,1,2,DU>1,Y,1,38.702,control
+1,59.2,IV,F,Y,Y,1,>=3,DU>1,Y,1,14.193,control
+2,56.9,IV,M,N,N,1,>=3,DU>1,Y,1,20.337,control
+1,42.8,III,F,N,N,1,2,DU>1,Y,1,10.678,treatment
+1,51.2,IV,F,N,N,1,2,SDPD,Y,0,64.591,treatment
+1,62.2,IV,M,N,N,1,>=3,DU>1,Y,0,59.302,control
+1,63.8,III,F,N,Y,1,>=3,DU<1,Y,1,0.953,treatment
+1,24.9,II,M,N,N,1,2,SDPD,Y,1,5.224,treatment
+0,63.5,IV,F,Y,N,1,>=3,DU>1,Y,1,14.883,control
+1,55.2,II,M,N,N,1,"0, 1",DU<1,Y,0,61.766,control
+1,30.5,II,M,N,N,99,2,SDPD,Y,1,6.177,treatment
+0,57.7,II,F,N,N,99,"0, 1",DU>1,Y,0,64.953,treatment
+0,64,III,F,N,N,99,>=3,DU>1,Y,1,41.593,treatment
+2,48.8,III,M,N,N,1,2,SDPD,Y,1,3.68,control
+2,32.7,IV,F,N,N,5,>=3,SDPD,N,1,2.694,control
+0,65.4,II,M,N,N,1,2,DU>1,Y,0,57.298,control
+0,41.6,I,M,N,N,5,"0, 1",DU>1,Y,0,55.228,treatment
+0,59.8,IV,M,N,N,1,"0, 1",DU>1,Y,0,65.708,control
+0,34.6,III,F,N,N,99,>=3,SDPD,Y,0,49.248,control
+1,53.6,III,M,Y,Y,99,2,DU>1,Y,1,14.029,treatment
+1,52.6,IV,M,Y,Y,99,2,DU>1,N,1,3.187,control
+1,59.3,III,F,Y,N,5,2,DU>1,Y,0,14.062,treatment
+2,61.3,IV,M,N,Y,1,>=3,DU<1,Y,1,4.074,treatment
+1,62.6,III,M,Y,Y,1,2,DU>1,N,1,25.199,treatment
+0,66.9,IV,F,N,N,5,>=3,DU<1,Y,1,29.832,control
+1,26.2,IV,F,N,N,1,>=3,SDPD,Y,1,7.162,control
+0,51.1,IV,M,N,Y,1,2,DU<1,Y,0,24.016,treatment
+1,28.9,IV,F,N,Y,1,>=3,SDPD,Y,1,5.651,treatment
+0,51.4,III,M,N,Y,1,2,SDPD,Y,0,13.175,control
+0,62.1,III,M,N,N,1,2,DU<1,Y,1,16,control
+0,63.7,III,F,N,N,,>=3,DU<1,Y,1,10.579,control
+1,55.2,IV,F,Y,N,,>=3,DU>1,N,1,3.055,treatment
+0,58.5,II,M,N,Y,1,"0, 1",SDPD,N,1,41.363,treatment
+1,58.4,III,F,N,Y,5,2,DU>1,N,0,146.563,control
+1,48.5,III,F,N,Y,1,>=3,SDPD,N,1,2.595,treatment
+0,35.2,III,M,N,N,1,2,DU>1,Y,1,9.429,control
+0,64.8,II,M,Y,N,1,"0, 1",DU>1,Y,1,42.776,treatment
+0,44.4,IV,F,Y,N,1,>=3,DU>1,N,1,102.472,control
+0,54.4,I,M,N,N,1,"0, 1",DU<1,Y,1,21.06,treatment
+1,58.6,III,M,N,Y,1,2,SDPD,Y,1,3.055,treatment
+0,68.4,IV,F,N,N,1,>=3,DU>1,Y,0,115.154,treatment
+0,52,III,M,N,N,3,2,DU<1,Y,1,5.979,control
+1,46.6,II,F,N,Y,5,"0, 1",DU<1,Y,1,4.14,control
+1,62.1,II,F,N,Y,5,"0, 1",DU<1,Y,1,63.113,treatment
+1,54.8,IV,F,N,Y,1,"0, 1",DU<1,Y,1,7.688,treatment
+0,55.4,IV,M,N,Y,1,2,DU>1,N,1,8.476,control
+0,64.8,IV,F,Y,Y,1,>=3,DU<1,Y,1,0.394,control
+0,52.9,IV,F,N,Y,1,2,DU<1,Y,1,13.536,control
+0,56,III,M,Y,N,5,2,DU>1,Y,1,69.092,control
+2,65.4,IV,M,Y,Y,1,>=3,SDPD,Y,1,0.329,treatment
+2,43.6,IV,M,N,Y,1,>=3,SDPD,N,1,4.402,treatment
+1,51.8,II,M,N,Y,1,"0, 1",DU>1,N,0,73.331,control
+1,63.5,III,F,N,N,1,>=3,SDPD,Y,1,9.922,treatment
+0,60.4,II,F,N,Y,1,"0, 1",DU<1,N,1,3.384,treatment
+0,63.6,III,F,N,N,1,>=3,DU<1,N,0,144.131,treatment
+1,58.8,IV,M,N,N,1,"0, 1",DU<1,N,0,146.661,control
+1,45.5,III,F,N,N,1,2,DU<1,N,1,6.538,treatment
+1,49.9,III,F,N,N,1,2,DU<1,N,1,57.889,control
+0,43.5,II,F,Y,N,1,"0, 1",DU<1,Y,1,7.031,control
+0,59.2,III,F,N,Y,1,"0, 1",SDPD,N,0,138.218,treatment
+0,55.6,III,M,N,N,1,"0, 1",DU<1,Y,0,123.072,treatment
+1,31.4,III,M,N,N,1,>=3,DU<1,Y,1,4.402,control
+0,60.5,IV,M,Y,N,1,2,DU<1,Y,1,89.101,treatment
+0,57.4,III,M,N,N,1,"0, 1",DU<1,Y,1,58.316,control
+0,37.3,II,M,N,Y,1,"0, 1",DU<1,Y,0,119.359,treatment
+1,47.4,IV,M,N,N,1,>=3,DU>1,N,0,112,control
+0,58.6,III,M,N,N,1,"0, 1",DU<1,Y,1,15.967,control
+2,53.4,IV,M,N,Y,1,>=3,SDPD,N,1,3.548,control
+1,60.8,IV,F,N,Y,1,>=3,SDPD,Y,1,4.665,treatment
+2,51.2,IV,M,N,Y,1,>=3,DU>1,N,0,110.883,control
+0,55.7,III,M,N,Y,1,"0, 1",DU<1,Y,0,109.503,control
+3,57.4,III,F,N,N,1,2,DU<1,Y,1,1.708,treatment
+1,51.7,III,M,N,N,1,2,DU<1,Y,1,7.918,control
+0,54.7,II,F,N,Y,1,"0, 1",DU>1,N,0,101.191,treatment
+0,53.1,II,F,N,N,1,"0, 1",DU>1,N,0,92.977,control
+0,42.7,III,F,N,N,1,2,SDPD,Y,1,9.363,control
+0,52,I,F,N,N,1,"0, 1",DU>1,N,0,77.175,treatment
+1,51.8,III,F,N,Y,1,>=3,DU<1,Y,0,76.419,treatment
+2,60.3,III,F,Y,N,1,>=3,DU<1,N,1,28.616,treatment
+0,64.7,III,M,Y,Y,1,>=3,DU>1,Y,1,47.179,control
+2,67.8,IV,M,N,N,1,>=3,SDPD,Y,1,1.216,control
+1,44.6,II,F,Y,Y,1,"0, 1",DU<1,N,1,25.331,control
+1,61.3,III,F,Y,Y,1,2,DU>1,N,1,13.503,treatment
+1,50.8,IV,F,N,Y,1,2,DU<1,Y,1,93.372,control
+0,52.5,II,F,N,Y,1,"0, 1",DU<1,Y,1,4.797,treatment
+1,48.1,III,M,N,Y,99,2,SDPD,Y,1,5.585,treatment
+0,56.6,IV,M,N,Y,1,2,DU<1,Y,1,6.308,treatment
+2,55.7,IV,M,N,N,1,>=3,DU<1,Y,1,5.881,control
+1,45.8,II,F,N,N,1,"0, 1",SDPD,Y,1,5.782,control
+1,58.6,III,M,Y,N,1,"0, 1",DU<1,Y,1,15.376,control
+0,53.7,IV,M,N,N,,"0, 1",SDPD,N,1,130.07,control
+2,55.7,IV,F,N,Y,,>=3,SDPD,Y,1,6.407,treatment
+3,55.3,II,M,N,Y,1,2,SDPD,Y,1,5.158,treatment
+0,50.5,III,M,N,N,1,"0, 1",DU>1,N,0,151.556,control
+1,57.5,III,M,N,N,1,2,SDPD,N,1,5.618,control
+1,61.9,IV,M,N,N,5,2,DU>1,N,1,98.234,treatment
+0,41.3,IV,M,N,N,6,"0, 1",DU<1,N,1,44.649,treatment
+1,68.5,III,M,N,Y,1,>=3,DU<1,N,1,3.483,treatment
+1,58,IV,F,N,Y,1,>=3,SDPD,Y,1,2.891,control
+2,60,III,M,N,N,1,>=3,SDPD,N,1,8.838,control
+1,56.6,III,M,N,N,6,2,SDPD,Y,1,8.312,treatment
+0,65,III,M,N,N,1,>=3,DU>1,N,0,140.813,control
+0,43.8,II,F,Y,Y,1,"0, 1",DU<1,N,0,134.407,treatment
+0,52.3,II,M,Y,N,1,"0, 1",DU>1,N,0,134.078,control
+3,62.1,IV,F,Y,N,1,>=3,DU>1,Y,1,14.489,control
+1,58.5,I,M,Y,N,1,"0, 1",DU>1,N,0,133.224,treatment
+0,52.1,II,F,Y,N,1,"0, 1",DU>1,N,0,128.624,treatment
+1,59.7,II,M,Y,Y,1,"0, 1",SDPD,Y,1,7.622,treatment
+1,52.4,III,F,N,Y,1,2,DU<1,Y,1,11.138,control
+1,55.4,III,F,N,N,1,"0, 1",DU<1,Y,0,125.437,control
+0,24.6,III,M,N,N,1,2,DU<1,Y,0,124.912,control
+0,33.9,I,F,N,N,1,"0, 1",SDPD,Y,1,45.602,treatment
+1,59.9,IV,M,N,N,1,>=3,SDPD,Y,1,2.76,treatment
+2,49.5,IV,F,N,N,1,>=3,DU>1,N,0,115.811,treatment
+2,60.2,II,M,N,Y,1,>=3,SDPD,Y,0,112.46,control
+1,54.8,III,F,N,N,1,2,DU<1,Y,0,96.756,treatment
+2,63.3,IV,M,N,Y,1,>=3,DU<1,Y,1,5.749,control
+1,62,II,F,N,N,1,"0, 1",DU<1,Y,0,104.115,control
+1,42,II,M,Y,N,1,"0, 1",DU<1,Y,1,15.507,treatment
+2,49.8,IV,F,N,Y,1,>=3,SDPD,Y,1,3.023,control
+1,63.3,III,M,N,Y,1,>=3,SDPD,N,0,90.349,treatment
+0,62.1,II,M,N,N,1,"0, 1",DU>1,Y,0,99.877,control
+0,58.7,III,M,N,N,1,"0, 1",SDPD,Y,0,90.152,control
+1,58,III,F,N,Y,1,"0, 1",SDPD,Y,0,94.062,treatment
+1,59.7,III,M,Y,N,6,"0, 1",DU<1,Y,0,93.897,treatment
+1,58.1,IV,M,N,Y,1,>=3,DU>1,Y,1,6.637,control
+1,63.3,III,F,N,Y,1,>=3,DU>1,Y,1,76.255,treatment
+0,64.7,III,M,N,Y,1,2,SDPD,N,1,9.495,treatment
+1,49.7,II,F,N,N,1,"0, 1",SDPD,Y,1,8.903,treatment
+1,54.7,IV,F,Y,Y,1,2,DU>1,Y,0,78.916,treatment
+2,61.2,IV,M,Y,Y,1,>=3,DU<1,Y,1,1.413,treatment
+2,63.4,IV,F,N,N,1,>=3,SDPD,Y,1,9.758,control
+1,59.7,III,M,N,N,1,2,SDPD,Y,1,2.136,control
+1,51.1,I,M,N,N,1,"0, 1",DU<1,Y,1,1.216,treatment
+0,43.7,III,F,Y,N,1,2,DU>1,N,0,141.076,control
+0,54.4,II,M,N,N,1,"0, 1",DU>1,Y,1,10.809,treatment
+0,54.2,II,M,N,Y,1,"0, 1",SDPD,Y,1,5.651,treatment
+1,46.9,IV,M,Y,N,,"0, 1",SDPD,N,0,149.092,control
+1,51.3,III,F,N,Y,1,"0, 1",SDPD,N,0,148.14,treatment
+2,31.3,IV,F,Y,N,1,>=3,DU<1,Y,1,0.46,control
+1,46.4,IV,F,Y,N,1,>=3,DU<1,Y,1,10.875,treatment
+2,60.7,I,F,N,Y,1,>=3,SDPD,N,1,3.22,treatment
+3,47.1,III,M,N,Y,6,>=3,SDPD,N,1,4.074,control
+1,60,III,M,N,N,1,2,DU<1,Y,1,3.515,control
+1,60,IV,F,N,N,1,2,DU>1,N,1,0.526,treatment
+3,56.9,IV,F,N,Y,1,>=3,DU>1,N,1,0.723,control
+1,42.3,IV,M,Y,N,6,2,DU>1,N,0,124.057,control
+2,55.8,II,F,Y,Y,1,2,DU<1,N,1,1.774,treatment
+0,58.5,II,M,N,N,1,"0, 1",DU<1,Y,1,3.975,control
+1,66.3,III,M,N,N,1,>=3,DU>1,N,0,115.253,control
+3,53.9,IV,M,N,Y,1,>=3,SDPD,Y,1,2.168,treatment
+0,58.6,II,M,N,N,1,"0, 1",DU>1,N,0,111.671,control
+1,64.8,IV,F,N,Y,1,>=3,SDPD,Y,1,5.52,treatment
+3,54.6,IV,F,N,Y,1,>=3,DU<1,Y,1,12.583,control
+1,63,III,M,Y,N,1,>=3,DU>1,N,1,62.62,treatment
+3,51.1,IV,M,N,Y,1,>=3,DU>1,N,0,99.68,treatment
+1,24.5,II,M,N,N,1,"0, 1",SDPD,Y,1,24.082,control
+0,63.1,IV,F,N,N,1,>=3,DU<1,Y,1,17.938,treatment
+0,65.1,III,F,N,N,1,2,DU<1,Y,0,116.304,treatment
+0,60.9,II,M,Y,N,1,2,DU>1,N,1,39.885,control
+1,47.6,III,M,N,Y,1,"0, 1",DU>1,N,0,86.505,control
+1,56.4,IV,M,N,Y,99,2,SDPD,Y,1,80.066,control
+3,49.8,IV,F,N,N,5,>=3,DU<1,Y,1,1.248,treatment
+1,41.7,IV,M,N,Y,1,>=3,DU<1,N,1,10.645,treatment
+1,61.2,II,M,N,N,1,"0, 1",SDPD,Y,1,6.637,treatment
+1,63.3,IV,F,Y,N,1,>=3,DU>1,Y,1,3.351,control
+0,50.2,III,M,N,N,1,"0, 1",DU>1,Y,0,124.419,treatment
+0,65.4,IV,F,N,N,1,2,DU<1,Y,1,9.331,control
+2,28.6,III,M,N,Y,1,>=3,SDPD,Y,1,5.06,treatment
+1,61.5,IV,M,N,Y,1,>=3,SDPD,Y,1,8.016,control
+0,33.1,II,F,N,N,5,"0, 1",DU<1,Y,1,15.803,treatment
+3,58.3,IV,M,N,N,1,2,DU<1,Y,1,4.501,control
+1,66.5,II,F,Y,N,5,>=3,DU<1,Y,1,3.483,control
+1,59.8,IV,M,N,N,1,"0, 1",SDPD,Y,1,8.049,treatment
+1,69.3,II,M,N,N,5,2,DU<1,Y,1,7.129,control
+0,56.1,IV,M,N,N,1,"0, 1",DU>1,Y,0,82.825,treatment
+0,67.8,IV,M,Y,N,1,2,DU>1,N,0,116.534,control
+0,46.4,I,F,Y,N,1,"0, 1",DU<1,Y,1,19.154,treatment
+0,46.4,I,M,Y,N,1,"0, 1",DU<1,Y,1,17.15,control
+1,54.3,II,M,N,N,1,"0, 1",SDPD,Y,0,80.789,control
+1,57.8,II,F,N,Y,1,"0, 1",SDPD,N,1,3.154,control
+2,50.4,IV,M,N,Y,1,>=3,SDPD,Y,1,0.657,treatment
+0,32.3,IV,F,Y,N,1,"0, 1",DU<1,Y,0,113.544,control
+0,60.4,II,M,N,N,1,"0, 1",DU>1,N,0,73.199,control
+1,51.7,IV,M,N,Y,1,2,DU<1,N,1,6.341,treatment
+0,47.1,II,M,N,N,1,"0, 1",DU<1,N,0,29.569,control
+0,32.7,IV,F,Y,N,1,"0, 1",DU>1,N,0,104.378,control
+0,26.5,I,F,N,N,1,"0, 1",SDPD,N,0,20.041,control
+0,60.9,I,M,N,N,1,"0, 1",SDPD,Y,0,71.819,treatment
+1,66.8,IV,F,Y,Y,1,2,DU>1,N,1,37.979,treatment
+0,54.8,IV,F,N,N,1,2,DU>1,N,0,69.52,treatment
+1,24.2,IV,F,Y,N,1,>=3,DU<1,Y,1,15.343,treatment
+0,38.9,IV,M,N,Y,1,2,DU<1,Y,1,8.148,control
+0,53.8,III,F,N,N,1,"0, 1",DU<1,Y,1,9.462,treatment
+1,40,II,M,N,N,1,"0, 1",DU<1,Y,1,4.172,control
+0,69.4,II,M,N,N,1,"0, 1",DU<1,Y,1,4.534,control
+0,46.2,IV,M,Y,N,1,"0, 1",DU>1,N,0,93.24,control
+0,65.1,IV,M,N,N,1,>=3,DU<1,Y,0,101.947,treatment
+0,53.9,I,F,N,N,1,"0, 1",SDPD,Y,0,65.741,control
+0,65.4,II,F,N,N,1,2,DU<1,Y,1,2.07,control
+1,74.3,IV,M,N,N,1,>=3,DU>1,N,1,11.696,control
+3,42.6,IV,M,Y,Y,1,>=3,SDPD,Y,1,28.879,control
+0,53.4,III,M,N,N,1,"0, 1",DU>1,N,0,47.54,control
+1,66.7,IV,F,N,Y,1,>=3,SDPD,Y,1,2.53,treatment
+0,57.2,III,F,N,N,1,"0, 1",SDPD,Y,0,79.606,control
+0,60,III,M,N,Y,1,"0, 1",DU<1,N,0,93.405,treatment
+0,65.8,III,M,Y,N,1,2,DU<1,N,0,65.84,treatment
+0,25.9,III,M,N,N,1,"0, 1",SDPD,Y,0,52.797,control
+0,54.3,IV,F,N,N,1,2,SDPD,Y,1,6.111,control
+0,56,II,M,Y,Y,1,"0, 1",DU<1,Y,1,30.127,treatment
+0,38.8,IV,M,N,N,1,2,DU>1,N,0,97.314,treatment
+1,58.1,IV,M,N,N,1,>=3,SDPD,Y,1,8.214,treatment
+0,20.9,III,M,N,Y,1,"0, 1",DU<1,N,0,67.943,treatment
+0,64.7,III,M,N,N,1,2,SDPD,Y,0,57.988,control
+0,67.8,I,M,N,N,1,"0, 1",DU<1,Y,1,29.766,treatment
+1,66.5,IV,F,N,N,1,>=3,DU<1,N,1,60.649,treatment
+0,53.8,II,M,N,Y,1,"0, 1",DU<1,Y,0,65.708,control
+1,61.8,IV,F,N,Y,1,>=3,DU<1,Y,1,4.435,treatment
+0,18.7,II,M,N,N,1,"0, 1",DU<1,Y,1,14.883,treatment
+1,64.6,IV,M,N,Y,1,2,SDPD,Y,1,5.881,control
+2,46.2,IV,M,N,N,1,>=3,DU<1,Y,1,7.556,control
+0,48.2,II,F,N,N,1,"0, 1",SDPD,Y,1,11.105,treatment
+1,43.7,II,F,N,N,1,"0, 1",DU<1,Y,1,8.575,treatment
+0,60.8,IV,F,N,Y,1,>=3,SDPD,Y,0,1.938,control
+1,63.1,IV,M,N,N,1,>=3,DU>1,Y,0,87.228,treatment
+0,67.4,III,M,N,N,1,2,SDPD,N,1,8.082,control
+1,62,IV,M,N,Y,1,>=3,SDPD,N,1,6.308,control
+1,24.8,IV,M,Y,Y,1,2,SDPD,Y,1,4.205,control
+0,56.8,II,M,N,N,1,"0, 1",DU<1,Y,1,16.23,control
+0,62.4,II,F,N,N,1,"0, 1",DU>1,Y,0,85.355,treatment
+1,50.6,III,M,N,N,1,"0, 1",DU<1,Y,1,5.815,treatment
+0,62.6,III,M,N,N,1,2,SDPD,Y,1,5.914,treatment
+0,55.6,II,F,N,N,1,"0, 1",DU>1,Y,0,7.589,control
+1,58.1,III,M,N,Y,1,2,DU>1,Y,1,55.786,treatment
+0,63,I,F,N,N,1,"0, 1",DU>1,Y,0,4.928,control
+0,64.7,II,M,N,N,1,"0, 1",DU>1,Y,1,49.774,treatment
+0,45,I,M,Y,N,1,"0, 1",DU>1,Y,0,57.035,control
+0,61.2,II,M,N,N,1,2,SDPD,Y,1,5.158,treatment
+1,44.8,IV,M,Y,N,1,>=3,DU<1,N,1,2.234,control
+0,60.8,III,M,Y,N,1,2,DU>1,Y,0,36.041,treatment
+1,65.5,II,M,N,N,1,2,SDPD,Y,1,20.632,control
+0,48.5,II,F,N,N,1,"0, 1",SDPD,Y,1,10.316,treatment
+0,29.1,IV,F,N,N,1,"0, 1",DU>1,Y,0,26.612,treatment
+0,71.2,III,F,N,N,1,>=3,DU<1,Y,0,0.69,treatment
+0,66.2,II,M,N,N,1,"0, 1",DU<1,Y,1,16.69,control
+1,68.4,II,M,N,N,1,2,DU<1,Y,0,55.195,control
+0,53.4,III,F,N,N,1,"0, 1",DU<1,Y,0,53.618,treatment
+0,41.9,II,M,N,Y,1,"0, 1",SDPD,Y,0,0.033,treatment
+0,65.3,III,F,N,N,1,2,DU<1,Y,0,0.033,control
+1,57.2,IV,F,N,N,1,"0, 1",DU<1,N,1,8.378,control
+0,31.7,IV,F,N,N,1,2,DU<1,Y,1,10.513,control
+1,70.4,III,M,Y,N,1,2,DU<1,Y,0,47.671,treatment
+0,31.3,III,M,N,N,3,"0, 1",DU<1,N,1,29.832,control
+0,29.5,II,F,N,Y,1,"0, 1",DU<1,Y,0,115.483,control
+1,46.4,IV,M,N,Y,1,2,DU<1,N,1,4.402,treatment
+0,42.1,III,M,N,N,1,2,SDPD,Y,1,9.922,treatment
+0,60.2,II,M,Y,N,1,"0, 1",DU<1,N,1,4.37,control
+0,63.7,I,F,N,N,1,2,DU<1,Y,0,120.181,control
+0,64.5,IV,F,N,N,,>=3,DU>1,N,1,9.101,treatment
+1,61.2,IV,M,Y,Y,1,>=3,SDPD,Y,1,17.511,treatment
+0,38.5,IV,M,Y,N,3,>=3,DU>1,N,0,56.805,control
+0,50.8,IV,F,N,Y,1,"0, 1",DU>1,Y,0,34.99,control
+0,49.4,IV,M,N,N,1,"0, 1",DU<1,Y,1,16.46,treatment
+1,38.6,IV,M,N,Y,6,2,DU<1,Y,1,8.312,treatment
+0,51.1,II,F,N,Y,1,"0, 1",DU<1,Y,0,76.649,control
+0,46.4,IV,F,N,Y,99,2,DU>1,Y,0,37.979,treatment
+0,60.4,IV,M,N,N,1,2,SDPD,N,1,4.567,treatment
+1,51.5,III,M,N,Y,,2,SDPD,Y,1,3.975,treatment
+2,42.2,IV,M,N,Y,1,>=3,SDPD,Y,1,3.515,treatment
+0,46.8,II,M,N,N,5,"0, 1",DU<1,Y,0,14.357,control
+0,69.7,IV,M,Y,Y,5,>=3,DU<1,Y,1,8.378,treatment
