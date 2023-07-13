@@ -36,7 +36,39 @@ fit9 <- coxph(Surv(os_time , os_event)~as.factor(PERF_STA)+as.factor(B_SYM)+as.f
 summary(fit9)
 
 
+1-pchisq(2*(fit8$loglik[2] - fit9$loglik[2]),1)
+fit.km <- survfit(Surv(os_time , os_event)~trt, data= survival_analysis)
 
+plot(fit.km,xlab="Time", ylab="Estimated SurvivalProbability")
+
+fit.km1 <- survfit(Surv(os_time, os_event)~ PERF_STA, data = survival_analysis)
+fit.km2 <- survfit(Surv(os_time, os_event)~ PR_RAD, data = survival_analysis)
+fit.km3 <- survfit(Surv(os_time, os_event)~ B_SYM, data = survival_analysis)
+fit.km4 <- survfit(Surv(os_time, os_event)~ r_score, data = survival_analysis)
+fit.km5 <- survfit(Surv(os_time, os_event)~ pr_resp, data = survival_analysis)
+
+plot(fit.km1, xlab= "Time", ylab= "Estimated SurvivalProbability")
+plot(fit.km2, xlab= "Time", ylab= "Estimated SurvivalProbability")
+plot(fit.km3, xlab= "Time", ylab= "Estimated SurvivalProbability")
+
+text(100,0.2,"Y")
+text(100,0.5,"N")
+plot(fit.km4, xlab= "Time", ylab= "Estimated SurvivalProbability")
+
+text(100,0.15, ">=3")
+text(100,0.4, "2")
+text(100,0.6, "0, 1")
+plot(fit.km5, xlab= "Time", ylab= "Estimated SurvivalProbability")
+
+text(100,0.15, "SDPD")
+text(100,0.35, "DU<1")
+text(100,0.6, "DU>1")
+
+logrk0 <- survdiff(Surv(os_time, os_event)~as.factor(trt), data = survival_analysis)
+logrk0
+
+logrk1 <- survdiff(Surv(os_time, os_event)~as.factor(PERF_STA), data = survival_analysis)
+logrk1
 
 
 
