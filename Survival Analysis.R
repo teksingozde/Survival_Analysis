@@ -100,6 +100,40 @@ pr_drug <- survival_analysis$pr_drug
 pr_resp <- survival_analysis$pr_resp
 trt <- survival_analysis$trt
 
+plot(PS[delta==1], log(x[delta==1]), pch=4, xlab="performance status: 0, 1, 2,3", ylab="log time")
+points(PS[delta==0], log(x[delta==0]), pch=1)
+
+plot(AGE[delta==1], log(x[delta==1]), pch=4, xlab="age in year", ylab="log time")
+points(AGE[delta==0], log(x[delta==0]), pch=1)
+
+plot(STAGE[delta==1], log(x[delta==1]), pch=4, xlab="cancer stage; I, II, III", ylab="log time")
+points(STAGE[delta==0], log(x[delta==0]), pch=1)
+
+plot(SEX[delta==1], log(x[delta==1]), pch=4, xlab="Female vs male", ylab="log time")
+plot(SEX[delta==1], log(x[delta==1]), pch=4, xlab="cancer stage; I, II, III", ylab="log time")
+points(SEX[delta==0], log(x[delta==0]), pch=1)
+
+plot(SEX[delta==1], log(x[delta==1]), pch=4, xlab="Female vs male", ylab="log time")
+points(SEX[delta==0], log(x[delta==0]), pch=1)
+
+plot(B_SYM[delta==1], log(x[delta==1]), pch=4, xlab="B-symptom, Yes vs No", ylab="log time")
+points(B_SYM[delta==0], log(x[delta==0]), pch=1)
+
+plot(r_score[delta==1], log(x[delta==1]), pch=4, xlab="International rIPI score: 0 or 1 vs 2 vs 3 or more", ylab="log time")
+points(r_score[delta==0], log(x[delta==0]), pch=1)
+
+plot(PR_RAD[delta==1], log(x[delta==1]), pch=4, xlab="Received radiotherapy before randomization", ylab="log time")
+points(PR_RAD[delta==0], log(x[delta==0]), pch=1)
+
+plot(PR_RAD[delta==1], log(x[delta==1]), xlab="Received radiotherapy before randomization", ylab="log time")
+plot(pr_drug[delta==1], log(x[delta==1]), pch=4, xlab="Received other drug before randomization", ylab="log time")
+points(pr_drug[delta==0], log(x[delta==0]), pch=1)
+
+plot(pr_resp[delta==1], log(x[delta==1]), pch=4, xlab="Response to other treatments before randomization", ylab="log time")
+points(pr_resp[delta==0], log(x[delta==0]), pch=1)
+
+plot(trt[delta==1], log(x[delta==1]), pch=4, xlab="treatment vs control", ylab="log time")
+points(trt[delta==0], log(x[delta==0]), pch=1)
 
 
 
