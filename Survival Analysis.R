@@ -70,9 +70,35 @@ logrk0
 logrk1 <- survdiff(Surv(os_time, os_event)~as.factor(PERF_STA), data = survival_analysis)
 logrk1
 
+logrk2 <- survdiff(Surv(os_time, os_event)~as.factor(PR_RAD), data = survival_analysis)
+logrk2
 
+logrk3<-survdiff(Surv(os_time, os_event)~as.factor(B_SYM), data = survival_analysis)
+logrk3
 
+logrk4<-survdiff(Surv(os_time, os_event)~as.factor(r_score), data = survival_analysis)
+logrk4
 
+logrk5<-survdiff(Surv(os_time, os_event)~as.factor(pr_resp), data = survival_analysis)
+logrk5
+
+delta <- survival_analysis$os_event
+x <- survival_analysis$os_time
+PS <- survival_analysis$PERF_STA
+PR <- survival_analysis$PR_RAD
+BS <- survival_analysis$B_SYM
+rs <- survival_analysis$r_score
+pr_resp <- survival_analysis$pr_resp
+PERF_STA <- survival_analysis$PERF_STA
+AGE <- survival_analysis$AGE
+STAGE <- survival_analysis$STAGE
+SEX <- survival_analysis$SEX
+B_SYM <- survival_analysis$B_SYM
+r_score <- survival_analysis$r_score
+PR_RAD <- survival_analysis$PR_RAD
+pr_drug <- survival_analysis$pr_drug
+pr_resp <- survival_analysis$pr_resp
+trt <- survival_analysis$trt
 
 
 
