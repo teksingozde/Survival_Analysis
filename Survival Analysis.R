@@ -135,7 +135,22 @@ points(pr_resp[delta==0], log(x[delta==0]), pch=1)
 plot(trt[delta==1], log(x[delta==1]), pch=4, xlab="treatment vs control", ylab="log time")
 points(trt[delta==0], log(x[delta==0]), pch=1)
 
+summary(fit.km)
 
+
+fit.lognm0 <- survreg(Surv(os_time, os_event)~as.factor(PERF_STA)+AGE+as.factor(STAGE)+as.factor(SEX)+as.factor(PR_RAD)+as.factor(B_SYM)+as.factor(r_score)+as.factor(pr_resp)+as.factor(pr_drug)+as.factor(trt),data = survival_analysis,dist="lognormal")
+summary(fit.lognm0)
+
+fit.lognm7<-survreg(Surv(os_time,os_event)~as.factor(PERF_STA)+as.factor(PR_RAD)+as.factor(B_SYM)+as.factor(r_score)+as.factor(pr_resp)+as.factor(pr_drug),data = survival_analysis,dist="lognormal")
+summary(fit.lognm7)
+
+1-pchisq(2*((-1815.7)-(-1821.1)), 16-10)
+
+fit.resids7 <- resid(fit.lognm7, type="deviance")
+par(mfrow=c(1,2))
+plot(predict(fit.lognm7), fit.resids7, ylab="Deviance Residuals", xlab="Risk Score")
+qqnorm(fit.resids7, ylab="Deviance Residuals", xlab="N(0,1) Quantiles")
+abline(0,1)
 
 
 
